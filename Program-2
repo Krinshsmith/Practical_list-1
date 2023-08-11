@@ -16,8 +16,8 @@ int main()
 {
 	temp t;
 	float f;
-	cout<<"Rahul ambaliya"<<endl;
-	cout<<"En_no::220130318104 "<<endl;
+	cout<<"My Name Is Krinshsmith Kava"<<endl;
+	cout<<"En_no    220130318102"<<endl;
 	cout<<"Enter the Teamprature in fahernhit : ";
 	cin>>f;
 	cout<<"Temprature in celsius = "<<t.conversion(f);
