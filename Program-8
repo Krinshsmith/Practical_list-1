@@ -1,0 +1,22 @@
+#include<iostream>
+using namespace std;
+main()
+{
+	int p,r,t;
+	
+	cout<<"My Name Is Krinshsmith Kava"<<endl;
+	cout<<"En_no   220130318102"<<endl;
+	cout<<"Enter the amount : ";
+	cin>>p;
+	cout<<"Enter the Rate   : ";
+	cin>>r;
+	cout<<"Enter the time   : ";
+	cin>>t;
+	
+	cout<<p*((1+r/100),t);
+	
+	return 0;
+	
+	
+	
+}
