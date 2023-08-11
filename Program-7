@@ -4,8 +4,8 @@ main()
 {
 	int si,p,r,t;
 	
-	cout<<"Rahul ambaliya"<<endl;
-	cout<<"En_no::220130318104"<<endl;
+	cout<<"My Name Is Krinshsmith Kava"<<endl;
+	cout<<"En_no    220130318102"<<endl;
 	
 	cout<<"Enter the principle amount  : ";
 	cin>>p;
